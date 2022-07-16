@@ -1,3 +1,7 @@
+# Forked from https://github.com/musikid/acpi_ec
+
+---
+
 # acpi_ec
 
 `acpi_ec` is a simple kernel module which takes most of its code from `ec_sys.c`
