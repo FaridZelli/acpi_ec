@@ -1,5 +1,7 @@
 # Forked from https://github.com/musikid/acpi_ec
-
+This branch has been archived in order to ensure compatibility with [ISW Modern](https://github.com/FaridZelli/ISW-Modern) in the future.   
+All credit goes to the original developer, [Sayafdine Said](https://github.com/musikid).
+   
 ---
 
 # acpi_ec
